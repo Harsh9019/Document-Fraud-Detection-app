@@ -6,6 +6,8 @@ Misaligned elements
 # Fraud not Detected:- 
 
 <img width="558" height="796" alt="Screenshot 2026-08-20 113422" src="https://github.com/user-attachments/assets/8b942a50-cc6b-4418-8aaf-ea26b99c7f89" />
+
+# Check Api Respose:-
 <img width="1575" height="538" alt="image" src="https://github.com/user-attachments/assets/25628b11-6958-4c07-8d44-30d848e4ace6" />
 # Document Fraud Detection
 
@@ -40,8 +42,6 @@ streamlit run streamlit_app.py
 - **Streamlit UI** → push repo to GitHub → share.streamlit.io → New app → main file `streamlit_app.py`.
 - **FastAPI** → deploy `app/main.py` (uvicorn).
 
-# Check in Api response:-
-<img width="1575" height="538" alt="image" src="https://github.com/user-attachments/assets/2a2527d5-a34b-48cc-bbbf-f80f5685eb6b" />
 
 # Check in Api response in json formate:-
 <img width="1522" height="510" alt="image" src="https://github.com/user-attachments/assets/510e38d4-eade-4935-b009-ee6dfbb5804d" />
