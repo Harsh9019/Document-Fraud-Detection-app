@@ -9,14 +9,11 @@ streamlit_app.py  # Streamlit UI, reuses app/model.py directly
 requirements.txt
 ```
 
-## Why this structure
-- `app/model.py` is the single source of truth for detection logic — both the
-  REST API and the Streamlit UI call the same `analyze()` function, so there's
-  no duplicated logic to keep in sync.
+# Why this structure:-
 - FastAPI (`app/main.py`) satisfies the "REST endpoint, JSON response" requirement.
 - Streamlit gives a quick visual demo on top of the same logic.
 
-## Run locally
+# Run locally:-
 pip install -r requirements.txt
 
 # REST API
@@ -32,7 +29,11 @@ streamlit run streamlit_app.py
 - **FastAPI** → deploy `app/main.py` (uvicorn).
 
 
-# Fraud not detected:- 
+# Fraud not Detected:- 
 
 <img width="557" height="796" alt="image" src="https://github.com/user-attachments/assets/9ba3f782-7866-44bc-98eb-a308cdccb332" />
 
+# Fraud Detected:- 
+Misaligned elements
+
+<img width="602" height="822" alt="image" src="https://github.com/user-attachments/assets/97acffb6-b378-49d2-906c-ee2a1044edd9" />
