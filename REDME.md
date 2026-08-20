@@ -34,7 +34,6 @@ streamlit run streamlit_app.py
 
 
 ## Fraud not Detected:- 
-
 <img width="558" height="796" alt="Screenshot 2026-08-20 113422" src="https://github.com/user-attachments/assets/4f73fc7a-46ee-444a-9a73-b5bc79025e49" />
 
 ## Fraud Detected:- 
@@ -43,3 +42,7 @@ Misaligned elements
 
 # Check in Api response:-
 <img width="1575" height="538" alt="image" src="https://github.com/user-attachments/assets/2a2527d5-a34b-48cc-bbbf-f80f5685eb6b" />
+
+# Check in Api response in json formate:-
+<img width="1522" height="510" alt="image" src="https://github.com/user-attachments/assets/510e38d4-eade-4935-b009-ee6dfbb5804d" />
+
