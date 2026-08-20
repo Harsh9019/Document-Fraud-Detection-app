@@ -1,3 +1,4 @@
+<img width="1575" height="538" alt="image" src="https://github.com/user-attachments/assets/25628b11-6958-4c07-8d44-30d848e4ace6" />
 # Document Fraud Detection
 
 # What is used:-
@@ -40,5 +41,8 @@ streamlit run streamlit_app.py
 # Fraud Detected:- 
 Misaligned elements
 <img width="602" height="822" alt="Screenshot 2026-08-20 113608" src="https://github.com/user-attachments/assets/6cdbc968-2254-47f6-90ee-3aee3cf9f7f5" />
+
+# Check in Api response:-
+<img width="1575" height="538" alt="image" src="https://github.com/user-attachments/assets/2a2527d5-a34b-48cc-bbbf-f80f5685eb6b" />
 
 
