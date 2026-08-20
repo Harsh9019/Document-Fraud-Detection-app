@@ -1,3 +1,7 @@
+## Fraud Detected:- 
+Misaligned elements
+
+<img width="602" height="822" alt="Screenshot 2026-08-20 113608" src="https://github.com/user-attachments/assets/9ae13574-6b5d-4ff8-b47f-6f3e7a1dc22d" />
 
 # Fraud not Detected:- 
 
@@ -35,10 +39,6 @@ streamlit run streamlit_app.py
 ## Deploy
 - **Streamlit UI** → push repo to GitHub → share.streamlit.io → New app → main file `streamlit_app.py`.
 - **FastAPI** → deploy `app/main.py` (uvicorn).
-
-## Fraud Detected:- 
-Misaligned elements
-<img width="602" height="822" alt="image" src="https://github.com/user-attachments/assets/6cdbc968-2254-47f6-90ee-3aee3cf9f7f5" />
 
 # Check in Api response:-
 <img width="1575" height="538" alt="image" src="https://github.com/user-attachments/assets/2a2527d5-a34b-48cc-bbbf-f80f5685eb6b" />
