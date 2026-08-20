@@ -1,4 +1,8 @@
 ## Fraud Detected:- 
+
+# Check in Api response in json formate:-
+<img width="1523" height="510" alt="Screenshot 2026-08-20 121404" src="https://github.com/user-attachments/assets/8b834c4d-6cf4-40e9-b398-9545d8e685b0" />
+
 Misaligned elements
 
 <img width="602" height="822" alt="Screenshot 2026-08-20 113608" src="https://github.com/user-attachments/assets/9ae13574-6b5d-4ff8-b47f-6f3e7a1dc22d" />
@@ -43,6 +47,4 @@ streamlit run streamlit_app.py
 - **FastAPI** → deploy `app/main.py` (uvicorn).
 
 
-# Check in Api response in json formate:-
-<img width="1522" height="510" alt="image" src="https://github.com/user-attachments/assets/510e38d4-eade-4935-b009-ee6dfbb5804d" />
 
