@@ -1,9 +1,8 @@
 # Document Fraud Detection
 
 ## Structure
-```
-app/
-  model.py     # CLIP zero-shot + ELA detection logic (shared)
+
+  model.py     # CLIP zero-shot + ELA detection logic
   schemas.py   # Pydantic response models
   main.py      # FastAPI REST endpoint (POST /detect)
 streamlit_app.py  # Streamlit UI, reuses app/model.py directly
