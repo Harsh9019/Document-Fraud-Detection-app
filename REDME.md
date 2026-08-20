@@ -1,3 +1,4 @@
+<img width="558" height="796" alt="Screenshot 2026-08-20 113422" src="https://github.com/user-attachments/assets/8b942a50-cc6b-4418-8aaf-ea26b99c7f89" />
 <img width="1575" height="538" alt="image" src="https://github.com/user-attachments/assets/25628b11-6958-4c07-8d44-30d848e4ace6" />
 # Document Fraud Detection
 
