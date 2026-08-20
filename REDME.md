@@ -32,4 +32,7 @@ streamlit run streamlit_app.py
 - **FastAPI** → deploy `app/main.py` (uvicorn).
 
 
+# Fraud not detected:- 
+
+<img width="557" height="796" alt="image" src="https://github.com/user-attachments/assets/9ba3f782-7866-44bc-98eb-a308cdccb332" />
 
