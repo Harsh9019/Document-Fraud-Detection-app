@@ -33,12 +33,11 @@ streamlit run streamlit_app.py
 - **FastAPI** → deploy `app/main.py` (uvicorn).
 
 
-# Fraud not Detected:- 
+## Fraud not Detected:- 
 
 <img width="558" height="796" alt="Screenshot 2026-08-20 113422" src="https://github.com/user-attachments/assets/4f73fc7a-46ee-444a-9a73-b5bc79025e49" />
 
-
-# Fraud Detected:- 
+## Fraud Detected:- 
 Misaligned elements
 <img width="602" height="822" alt="Screenshot 2026-08-20 113608" src="https://github.com/user-attachments/assets/6cdbc968-2254-47f6-90ee-3aee3cf9f7f5" />
 
