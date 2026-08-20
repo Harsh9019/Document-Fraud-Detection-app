@@ -17,12 +17,11 @@ requirements.txt
 - Streamlit gives a quick visual demo on top of the same logic.
 
 ## Run locally
-```bash
 pip install -r requirements.txt
 
 # REST API
-uvicorn app.main:app --reload
-# POST http://localhost:8000/detect  (multipart file upload) -> JSON
+uvicorn main:app --reload
+# POST http://localhost:8000/detect JSON
 
 # Streamlit UI
 streamlit run streamlit_app.py
@@ -30,9 +29,7 @@ streamlit run streamlit_app.py
 
 ## Deploy
 - **Streamlit UI** → push repo to GitHub → share.streamlit.io → New app → main file `streamlit_app.py`.
-- **FastAPI** → deploy `app/main.py` (uvicorn) on Render/Railway/HF Spaces (Docker) for the REST endpoint requirement.
+- **FastAPI** → deploy `app/main.py` (uvicorn).
 
-## Before submitting
-- Test on 20+ real images, record actual accuracy/latency.
-- Tune `CONF_THRESHOLD` in `app/model.py` based on that testing.
-- Write the submission email honestly, matching observed behavior.
+
+
