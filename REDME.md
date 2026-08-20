@@ -1,13 +1,16 @@
 # Document Fraud Detection
 
-## Structure
+# What is used:-
+CLIP (openai/clip-vit-base-patch32, via HuggingFace transformers) — zero-shot image classifier
+ELA (Error Level Analysis) — a classic image-forensics trick using PIL
+FastAPI — REST API (POST /detect)
+Streamlit — web UI, calls the same logic
 
-  model.py     # CLIP zero-shot + ELA detection logic
-  schemas.py   # Pydantic response models
-  main.py      # FastAPI REST endpoint (POST /detect)
-streamlit_app.py  # Streamlit UI, reuses app/model.py directly
-requirements.txt
-```
+# Structure:-
+ model.py     # CLIP zero-shot + ELA detection logic
+schemas.py   # Pydantic response models
+main.py      # FastAPI REST endpoint (POST /detect)
+
 
 # Why this structure:-
 - FastAPI (`app/main.py`) satisfies the "REST endpoint, JSON response" requirement.
